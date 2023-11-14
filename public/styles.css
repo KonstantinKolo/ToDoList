@@ -3,9 +3,14 @@
     font-weight: bold;
 }
 
+input{
+  border-radius: 10px;
+  border: none;
+}
+
 body {
-    background: rgb(245, 245, 245);
-    color: #333333;
+    background: rgb(47, 60, 126);
+    color: rgb(251,234,235);
     margin-top: 20px;
 }
 
